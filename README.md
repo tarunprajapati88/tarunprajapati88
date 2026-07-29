@@ -1,17 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=750&lines=Hi+👋,+I'm+Tarun+Prajapati;AI+Memory+%26+Vector+DB+Specialist;Mobile+%26+Full-Stack+Architect;Building+RAG,+Guardrails+%26+LLM+Infrastructure" alt="Typing SVG" />
+# Hi 👋, I'm Tarun Prajapati
 
-  <p align="center">
-    🧠 <strong>AI Memory & Vector DB Architect</strong> | 📱 <strong>Mobile Application Developer</strong> | ⚡ <strong>Full-Stack Engineer</strong>
-  </p>
+### 🧠 AI Memory & Vector DB Architect | 📱 Mobile Application Developer | ⚡ Full-Stack Engineer
 
-  <p align="center">
-    <a href="https://github.com/tarunprajapati88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:praja.tarun88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunprajapati88)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatitarun88@gmail.com)
 
-<hr />
+---
 
 ### 👨‍💻 About Me
 
@@ -77,27 +71,3 @@
 - 🧠 **AI Memory & Vector Search Pipelines:** Implementing semantic search, agentic memory layers, document embeddings, and similarity retrieval for LLM applications.
 - 🛡️ **GuardrailOps:** End-to-end AI safety classification system powered by Llama Guard 3, Slack bot integration, Docker containerization, and real-time observability dashboards.
 - 📱 **Nebva & Maina Solutions:** Enterprise Flutter mobile apps integrated with real-time web dashboards and cloud backend services.
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tarunprajapati88&theme=flat&margin-w=15&margin-h=15" alt="tarunprajapati88 Trophies" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Statistics & Commit Streak
-
-<div align="center">
-  <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunprajapati88&show_icons=true&theme=tokyonight&locale=en" alt="Tarun's GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunprajapati88&theme=tokyonight" alt="Tarun's Commit Streak" />
-  </p>
-  <p>
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunprajapati88&show_icons=true&theme=tokyonight&layout=compact" alt="Tarun's Most Used Languages" />
-  </p>
-</div>
